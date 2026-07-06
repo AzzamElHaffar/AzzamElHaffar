@@ -45,7 +45,6 @@ I'm a **Computer Engineer** with an M.S. in Computer and Communication Engineeri
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
 <a href="https://pytorch.org/" target="_blank"><img align="left" alt="PyTorch" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></a>
 <a href="https://www.tensorflow.org" target="_blank"><img align="left" alt="TensorFlow" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 
 <br clear="both">
 
