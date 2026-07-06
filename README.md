@@ -4,7 +4,7 @@
 <a href='https://www.linkedin.com/in/azzam-el-haffar'><img align='left' alt="linkedin" src="assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.facebook.com/azzam.haffar.7'><img align='left' alt="linkedin" src="assets/facebook.svg" height='18px'/></a>
 <a href='https://www.instagram.com/azzamelhaffar/'><img align='left' alt="linkedin" src="assets/instagram.svg" height='18px'/></a>
-<br/>
+<br clear="both"/>
 
 I'm a **Computer Engineer** with an M.S. in Computer and Communication Engineering, working across **software development, artificial intelligence, and computer vision**. My background spans building practical, real-world systems and doing academic research in deep learning — I like being equally comfortable shipping a working application and writing up a rigorous experimental study.
 
@@ -21,7 +21,7 @@ I'm a **Computer Engineer** with an M.S. in Computer and Communication Engineeri
 - 📄 &nbsp; Published and peer-reviewed research author, with work appearing in **IEEE Xplore** and an **AI/ML journal**
 - 🗣️ &nbsp; Fluent in Arabic, English, and French
 
-<br>
+<br clear="both">
 
 ### 💼 Experience
 
@@ -47,9 +47,7 @@ I'm a **Computer Engineer** with an M.S. in Computer and Communication Engineeri
 <a href="https://www.tensorflow.org" target="_blank"><img align="left" alt="TensorFlow" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 
-<br>
-<br>
-
+<br clear="both">
 
 ### 🎓 Research & Publications
 
