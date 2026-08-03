@@ -2,6 +2,7 @@
 
 <a href='https://github.com/AzzamElHaffar'><img align='left' alt="github" src="assets/github.svg" height='18px'/></a>
 <a href='https://www.linkedin.com/in/azzam-el-haffar'><img align='left' alt="linkedin" src="assets/linkedin.svg" height='18px'/></a>
+<a href='https://azzamelhaffar-portfolio.vercel.app/'><img align='left' alt="linkedin" src="assets/suitcase.png" height='18px'/></a>
 <a href='https://www.facebook.com/azzam.haffar.7'><img align='left' alt="linkedin" src="assets/facebook.svg" height='18px'/></a>
 <a href='https://www.instagram.com/azzamelhaffar/'><img align='left' alt="linkedin" src="assets/instagram.svg" height='18px'/></a>
 <br clear="both"/>
